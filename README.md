@@ -29,4 +29,11 @@ Different question how do i view this in its non markdown code version?
 
 
 
+Look into SQLc seems like something i should learn? 
 
+
+Need to learn homerow typing and vim motions better. 
+
+Also a more strict routine. 
+I should probably organize these notes better. 
+Or use some notes tool. 
