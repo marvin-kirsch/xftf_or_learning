@@ -37,3 +37,9 @@ Need to learn homerow typing and vim motions better.
 Also a more strict routine. 
 I should probably organize these notes better. 
 Or use some notes tool. 
+
+I want this to be in a notes sections and in better md format i should also learn to touch type. 
+
+I want to build my keyboard too maybe learn a bit of microcontroller stuff lowlvl probgramming :) 
+
+Also lets do proper journal type note files. 
