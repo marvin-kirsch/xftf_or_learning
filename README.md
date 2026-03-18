@@ -1,3 +1,5 @@
+## Can be archived, was abandoned due to more specific projects and you know work exploring new ideas, starting specific rust project and and and ... 
+
 # xftf_or_learning
 
 This is a learning experiment. It is about learning quite a lot actually. 
